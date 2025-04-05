@@ -1,0 +1,1 @@
+This project showcases the development of a basic Electronic Voting Machine (EVM) as part of a BE (Bachelor of Engineering) laboratory assignment. The core voting logic and candidate selection are implemented using an Arduino microcontroller, demonstrating fundamental embedded systems principles.
